@@ -30,7 +30,7 @@ module.exports = {
   //       url: `https://dribbble.com/narativestudio`,
   //     },
   //   ],
-  // },
+  },
   plugins: [
     {
       resolve: "@narative/gatsby-theme-novela",
