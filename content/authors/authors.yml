@@ -1,8 +1,7 @@
-- name: Dennis Brotzky
+- name: Andrea Zerbinati
   bio: |
-    Written by You. This is where your author bio lives. Share your work, your
-    joys and of course, your Twitter handle.
-  avatar: ./avatars/dennis-brotzky.jpg
+    Marketer, Datascientist, Web Developer, chitarrista...Non sono niente di tutto ciò. Ma ci sto lavorando!
+  avatar: ./avatars/andrea-zerbinati.jpg
   featured: true
   social:
     - name: github
