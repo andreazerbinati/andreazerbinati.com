@@ -9,26 +9,18 @@ module.exports = {
       maxWidth: 652,
     },
   social: [
-  //     {
-  //       name: `twitter`,
-  //       url: `https://twitter.com/narative`,
-  //     },
-  //     {
-  //       name: `github`,
-  //       url: `https://github.com/narative`,
-  //     },
-  //     {
-  //       name: `instagram`,
-  //       url: `https://instagram.com/narative.co`,
-  //     },
-  //     {
-  //       name: `linkedin`,
-  //       url: `https://www.linkedin.com/company/narative/`,
-  //     },
-  //     {
-  //       name: `dribbble`,
-  //       url: `https://dribbble.com/narativestudio`,
-  //     },
+      {
+        name: `twitter`,
+        url: `https://twitter.com/AndreaZ11`,
+      },
+      {
+        name: `github`,
+        url: `https://github.com/andreazerbinati`,
+      },
+      {
+        name: `linkedin`,
+        url: `https://www.linkedin.com/in/andreazerbinati/`,
+      },
   ],
   },
   plugins: [
