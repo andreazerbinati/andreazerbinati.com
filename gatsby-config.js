@@ -3,10 +3,10 @@ module.exports = {
     title: `Andrea Zerbinati`,
     name: `Andrea Zerbinati`,
     siteUrl: `https://andreazerbinati.com`,
-    description: `Il primo blog italiano su DataScience.`,
+    description: `A Data Science Workbench`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
-      maxWidth: 652,
+      heading: `A Data Science Workbench`,
+      maxWidth: 700,
     },
   social: [
       {
