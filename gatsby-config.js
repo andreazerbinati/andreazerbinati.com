@@ -8,7 +8,7 @@ module.exports = {
       heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
       maxWidth: 652,
     },
-  //   social: [
+  social: [
   //     {
   //       name: `twitter`,
   //       url: `https://twitter.com/narative`,
@@ -29,7 +29,7 @@ module.exports = {
   //       name: `dribbble`,
   //       url: `https://dribbble.com/narativestudio`,
   //     },
-  //   ],
+  ],
   },
   plugins: [
     {
