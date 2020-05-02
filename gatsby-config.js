@@ -3,9 +3,9 @@ module.exports = {
     title: `Andrea Zerbinati`,
     name: `Andrea Zerbinati`,
     siteUrl: `https://andreazerbinati.com`,
-    description: `A Data Science Workbench`,
+    description: `A blog about CS`,
     hero: {
-      heading: `A Data Science Workbench`,
+      heading: `A Computer Science Workbench`,
       maxWidth: 700,
     },
   social: [
