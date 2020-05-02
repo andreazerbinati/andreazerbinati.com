@@ -1,16 +1,10 @@
 - name: Andrea Zerbinati
   bio: |
-    Marketer, Datascientist, Web Developer, Chitarrista...Non sono niente di tutto ciò!
+    Data Analyst, .NET Developer, Appassionato di CS in generale.
   avatar: ./avatars/andrea-zerbinati.jpg
   featured: true
   social:
     - name: github
       url: https://github.com
-    - name: twitter
-      url: https://github.com
-    - name: instagram
-      url: https://github.com
-    - name: dribbble
-      url: https://github.com
     - name: linkedin
-      url: https://github.com
+      url: https://www.linkedin.com/in/andreazerbinati/
